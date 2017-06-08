@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $jahse.homestead.com/files/QuickSiteImages/Curve_2.jpg;
+  background-image: url("$jahse.homestead.com/files/QuickSiteImages/Curve_2.jpg");
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
